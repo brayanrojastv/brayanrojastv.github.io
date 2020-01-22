@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:0 tvg-name="CityTV" tvg-logo="https://m.eltiempo.com/uploads/2017/09/06/59afb1bde5508.png" group-title="NACIONALES",CityTV
+http://62.210.92.67:25461/live/canalesapp/6612366556KSNJUFL%C3%916612366/3.ts
+
+#EXTINF:0 tvg-name="Canal UNO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="NACIONALES",Canal UNO
+http://62.210.92.67:25461/live/canalesapp/6612366556KSNJUFL%C3%916612366/732.ts
+
+#EXTINF:0 tvg-name="Caracol HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/LogoCaracolTV2017.png" group-title="NACIONALES",
+http://62.210.92.67:25461/live/canalesapp/6612366556KSNJUFL%C3%916612366/7.ts
+
+#EXTINF:0 tvg-name="Win Sports" tvg-logo="http://a1978.phobos.apple.com/us/r30/Purple4/v4/bf/bb/f7/bfbbf797-cc85-6119-247f-3c4219d4a76b/mzl.dogucvyn.png" group-title="DEPORTES",
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/0001/tu1/yt1_2.m3u8
+
+#EXTINF:0 tvg-name="RCN" tvg-logo="https://media.metrolatam.com/2017/05/22/captura-de-pantalla-20170522-a-las-9.39.20-1200x600.jpg" group-title="NACIONALES",
+http://62.210.92.67:25461/live/canalesapp/6612366556KSNJUFL%C3%916612366/728.t
