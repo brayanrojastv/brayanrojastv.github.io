@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", RCN
+http://public.frst.site:2052/btm_hls/064/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIwIDY6MjM6MjEgUE0maGFzaF92YWx1ZT02Mm1Td0krQlI5MTQrc2RxYWxkazNRPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0wZmJjYTA0ZDQyNTkxZWUx
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", TNT SERIES
+http://public.frst.site:2052/btm_hls/099/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIwIDY6Mjg6MzQgUE0maGFzaF92YWx1ZT1ZNG5uWm1RU3lkWG44TE9FaFR5MVp3PT0mdmFsaWRtaW51dGVzPTI0MCZpZD0wZmJjYTA0ZDQyNTkxZWUx
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", RCN NOVELAS
+http://public.frst.site:2052/btm_hls/214/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIwIDY6MjY6MzggUE0maGFzaF92YWx1ZT11SEhDR29XMVgzWVl0OVN0VHBTNHBBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0wZmJjYTA0ZDQyNTkxZWUx
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", CARTOON NETWORK COLOMBIA
+http://public.frst.site:2052/btm_hls/137/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIwIDY6MzI6MjkgUE0maGFzaF92YWx1ZT1teGJtVFc0enBjRXZ2bzgzVzlDWWhBPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0wZmJjYTA0ZDQyNTkxZWUx
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", FX
+http://public.frst.site:2052/btm_hls/083/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMy8yMDIwIDY6MzQ6NTcgUE0maGFzaF92YWx1ZT1RVmZGbzVqdVk5a2ZMTWIyZitaZTZnPT0mdmFsaWRtaW51dGVzPTI0MCZpZD0wZmJjYTA0ZDQyNTkxZWUx
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", CARTOON NETWORK USA
+https://peer1.ustv.to/CN/myStream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDk6Mzg6MzcgUE0maGFzaF92YWx1ZT1KYWNxb3BFRU0wRG94am43L2dMUjRnPT0mdmFsaWRtaW51dGVzPTM2MDAmc3RybV9sZW49MA==
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="noimage.png" group-title="GSE NO GROUP", BOOMERANG
+http://23.237.136.42:8081/live-2/020/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yMS8yMDIwIDE6MTM6NDEgUE0maGFzaF92YWx1ZT0rcmlYWHpnYkg4UzRlRXZxM0FrMkpBPT0mdmFsaWRtaW51dGVzPTEyMCZpZD0xODY4NDIwMjE4
+
