@@ -1,0 +1,48 @@
+@media print {
+    html, body {
+       display: none;  /* hide whole page */
+    }
+}
+
+body {
+	background: rgb(242,153,74);
+	/*background: -moz-linear-gradient(180deg, rgba(242,153,74,1) 0%, rgba(242,201,76,1) 100%);
+	background: -webkit-linear-gradient(180deg, rgba(242,153,74,1) 0%, rgba(242,201,76,1) 100%);
+	background: linear-gradient(180deg, rgba(242,153,74,1) 0%, rgba(242,201,76,1) 100%);*/
+}
+
+.centro {
+	position: absolute;
+   top: 50%;
+   left: 50%;
+   width: 500px;
+   height: 500px;
+   margin-top: -250px; /* Half the height */
+   margin-left: -250px; /* Half the width */
+}
+
+.centro2 {
+	color: #000000;
+	text-decoration: none;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+   top: 114%;
+   left: 79%;
+   width: 500px;
+   height: 500px;
+   margin-top: -250px; /* Half the height */
+   margin-left: -250px; /* Half the width */
+}
+
+.centro3 {
+	color: #000000;
+	text-decoration: none;
+	font-family: 'Roboto', sans-serif;
+	position: absolute;
+   top: 50%;
+   left: 51%;
+   width: 500px;
+   height: 500px;
+   margin-top: -250px; /* Half the height */
+   margin-left: -250px; /* Half the width */
+}
